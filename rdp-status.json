@@ -124,5 +124,6 @@
     "windows_server": true,
     "play_tested": false,
     "hypervisor_present": true
-  }
+  },
+  "heartbeat_at": "2026-10-17T22:16:04.9248711Z"
 }
